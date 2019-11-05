@@ -1,1 +1,3 @@
-# scc-cluster
+# gcluster
+
+Graph-based clustering algorithms.
